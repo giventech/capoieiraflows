@@ -23,6 +23,38 @@ All processing happens locally via Docker containers for OpenWebUI, ChromaDB, n8
 
 ---
 
+
+Folder Strucuture :
+
+/CapoeiraNewsFlow/             # (your main project folder)
+│
+├── /Themes/                   # (small text files, each file = 1 theme)
+│     ├── theme1.txt
+│     ├── theme2.txt
+│
+├── /Songs/                    # (small text files, each file = 1 song lyrics/snippet)
+│     ├── song1.txt
+│     ├── song2.txt
+│
+├── /Photos/                   # (images to inspire newsletters or Portuguese class)
+│     ├── photo1.jpg
+│     ├── photo2.png
+│
+├── /Reference/                # (optional - research articles, background documents)
+│     ├── article1.pdf
+│     ├── capoeira-history.docx
+│
+├── /Recordings/               # (audio recordings from class discussions)
+│     ├── class_discussion_2025-05-01.mp3
+│     ├── class_discussion_2025-05-08.mp3
+│
+├── context_agent.py           # (the starter Python script I sent you)
+│
+├── context.json               # (output from context_agent.py)
+│
+└── README.md                  # (for your notes/documentation)
+
+
 ## 📦 Components
 
 | Component          | Description |

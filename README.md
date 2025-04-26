@@ -17,6 +17,10 @@ All processing happens locally via Docker containers for OpenWebUI, ChromaDB, n8
 ![image](https://github.com/user-attachments/assets/e6b9920c-caa3-48fc-ae67-e787869662ca)
 
 
+
+## Component architecture
+![image](https://github.com/user-attachments/assets/0f5fc1b4-14a7-4747-ae55-75dc372ffe61)
+
 ---
 
 ## 📦 Components

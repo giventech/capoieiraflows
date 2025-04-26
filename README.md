@@ -12,6 +12,11 @@ CapoeiraFlows is a local-first, privacy-respecting AI-powered automation platfor
 
 All processing happens locally via Docker containers for OpenWebUI, ChromaDB, n8n, and Mistral. Mistral is run using [Ollama](https://ollama.com/) locally for fast LLM-based tasks.
 
+## High level Architecture
+
+![image](https://github.com/user-attachments/assets/e6b9920c-caa3-48fc-ae67-e787869662ca)
+
+
 ---
 
 ## 📦 Components

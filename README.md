@@ -24,7 +24,11 @@ All processing happens locally via Docker containers for OpenWebUI, ChromaDB, n8
 ---
 
 
-Folder Strucuture :
+![image](https://github.com/user-attachments/assets/d15d4ff8-89ae-48e1-a6b7-e0c8b63e65cf)
+
+
+
+## Folder Strucuture :
 
 /CapoeiraNewsFlow/             # (your main project folder)
 │
